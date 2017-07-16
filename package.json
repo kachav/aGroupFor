@@ -31,12 +31,12 @@
     "@angular/core": ">=4.0.0"
   },
   "devDependencies": {
-    "@angular/common": "^4.1.2",
-    "@angular/compiler": "^4.1.2",
-    "@angular/core": "^4.1.2",
-    "@angular/forms": "^4.1.2",
-    "@angular/platform-browser": "^4.1.2",
-    "@angular/platform-browser-dynamic": "^4.1.2",
+    "@angular/common": "^4.3.0",
+    "@angular/compiler": "^4.3.0",
+    "@angular/core": "^4.3.0",
+    "@angular/forms": "^4.3.0",
+    "@angular/platform-browser": "^4.3.0",
+    "@angular/platform-browser-dynamic": "^4.3.0",
     "@types/core-js": "0.9.42",
     "@types/hammerjs": "^2.0.33",
     "@types/jasmine": "^2.2.34",
