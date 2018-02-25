@@ -73,7 +73,7 @@
     "karma-remap-istanbul": "^0.6.0",
     "karma-sourcemap-loader": "0.3.7",
     "nyc": "^11.0.3",
-    "karma-webpack": "2.0.4",
+    "karma-webpack": "2.0.10",
     "merge2": "1.1.0",
     "path": "0.12.7",
     "phantomjs": "^2.1.7",
